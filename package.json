@@ -1,0 +1,7 @@
+{
+  "name": "go-nodejs-addon",
+  "scripts": {
+    "start": "node index.js",
+    "build": "go build -buildmode=c-shared -o addon.node"
+  }
+}
