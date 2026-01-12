@@ -1,3 +1,5 @@
+// Build with `go build -buildmode=c-shared -o addon.node`
+
 package main
 
 /*
